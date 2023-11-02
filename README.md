@@ -28,7 +28,7 @@ To follow my JavaScript learning journey, simply navigate through this README.md
 
 ## Author
 
-- [Your Name](https://github.com/yourusername): Connect with me on GitHub!
+- [Rafael Garrigos](https://github.com/garricode): Connect with me on GitHub!
 
 ## License
 
